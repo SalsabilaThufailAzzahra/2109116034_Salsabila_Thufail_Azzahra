@@ -1,2 +1,3 @@
 # 2109116034_Salsabila_Thufail_Azzahra
-UAS PBO Toko Sepeda
+Ujian Akhir Semester PBO Toko Sepeda
+Mata Kuliah Pemograman Berbasis Objek 
